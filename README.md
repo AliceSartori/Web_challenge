@@ -11,4 +11,4 @@ We'll also have a landing page, a page where we can see a comparison of all of t
 
 ## Added challenge: I used the dataset coming from my API project. 
 
-Deployed on AliceSartori.github.io
+Deployed on https://alicesartori.github.io/Web_challenge/
